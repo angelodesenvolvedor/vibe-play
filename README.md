@@ -3,7 +3,7 @@
 Uma aplicação web interativa para reprodução de música, com recursos como controle de volume, busca por músicas, navegação por gêneros e informações sobre artistas.
 
 ## 🔥 Introdução
-O **VibePlay** é um projeto desenvolvido como parte da Tarefa 03 da disciplina de **Multimídia** do curso de **Bacharelado em Tecnologia da Informação**. O objetivo é criar um player de música intuitivo e amigável, que permita ao usuário:
+O **VibePlay** é um projeto desenvolvido como parte da Tarefa 03 da disciplina **Multimídia** do curso de **Bacharelado em Tecnologia da Informação**. O objetivo é criar um player de música intuitivo e amigável, que permita ao usuário:
 
 - **Reproduzir músicas**: Selecionar músicas de uma lista e controlá-las com botões de play, pause, avançar e retroceder.
 - **Controlar o volume**: Ajuste individual do volume para cada música.
